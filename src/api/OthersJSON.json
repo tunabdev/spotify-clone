@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.scdn.co/image/ab67706f00000002ca5a7517156021292e5663a6",
+    "title": "Peaceful Piano",
+    "caption": "Relax and indulge with beautiful piano pieces"
+  },
+  {
+    "id": 2,
+    "img": "https://i.scdn.co/image/ab67706f000000025551996f500ba876bda73fa5",
+    "title": "Deep Focus",
+    "caption": "Keep calm and focus with ambient and post-rock music."
+  },
+  {
+    "id": 3,
+    "img": "https://i.scdn.co/image/ab67706f000000025d87659dcadef82dd0e73f56",
+    "title": "Instrumental Study",
+    "caption": "A soft musical backdrop for your studies."
+  },
+  {
+    "id": 4,
+    "img": "https://i.scdn.co/image/ab67706f000000025b0a7b8408322a3b9ed15e1e",
+    "title": "chill lofi study beats",
+    "caption": "The perfect study beats, twenty four seven."
+  },
+  {
+    "id": 5,
+    "img": "https://i.scdn.co/image/ab67706f00000002724554ed6bed6f051d9b0bfc",
+    "title": "Focus Flow",
+    "caption": "Uptempo instrumental hip hop beats."
+  },
+  {
+    "id": 6,
+    "img": "https://i.scdn.co/image/ab67706f00000002863b311d4b787ed621f7e696",
+    "title": "Coding Mode",
+    "caption": "Dedicated to all the programmers out there."
+  },
+  {
+    "id": 7,
+    "img": "https://i.scdn.co/image/ab67706f00000002ff55ef0570b629a51bfc43f4",
+    "title": "Calm Before the Storm",
+    "caption": "Aerial post-rock sounds to take you somewhere else."
+  },
+  {
+    "id": 8,
+    "img": "https://i.scdn.co/image/ab67706f0000000296e08a91ef3c7a6e7bfaa9a6",
+    "title": "Beats to think to",
+    "caption": "Focus with deep techno and tech house."
+  }
+]

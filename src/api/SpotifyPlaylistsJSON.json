@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.scdn.co/image/ab67706f00000002a0fef2076efa27870e02f958",
+    "title": "Today's Top Hits",
+    "caption": "David Guetta & Bebe Rexha are on top of the Hottest 50!"
+  },
+  {
+    "id": 2,
+    "img": "https://i.scdn.co/image/ab67706f000000023d8d7e69e79152947b73db70",
+    "title": "RapCaviar",
+    "caption": "Music from Nicki Minaj, Kodak Black and EST Gee."
+  },
+  {
+    "id": 3,
+    "img": "https://i.scdn.co/image/ab67706f00000002f95e0d3dd06dbadb407ef766",
+    "title": "All Out 2010s",
+    "caption": "The biggest songs of the 2010s."
+  },
+  {
+    "id": 4,
+    "img": "https://i.scdn.co/image/ab67706f000000023b52952432e3a6d3f517eb2e",
+    "title": "Rock Classics",
+    "caption": "Rock legends & epic songs that continue to inspire generations."
+  },
+  {
+    "id": 5,
+    "img": "https://i.scdn.co/image/ab67706f0000000289176be09b76f4b7d4783b0e",
+    "title": "Chill Hit'ler",
+    "caption": "En iyi ve yeni chill hit'lerle rahatla."
+  },
+  {
+    "id": 6,
+    "img": "https://i.scdn.co/image/ab67706f00000002bf3bd3f4b22276ca752cea7d",
+    "title": "Viva Latino",
+    "caption": "Today's top Latin hits, elevando nuestra música. Cover: Feid"
+  },
+  {
+    "id": 7,
+    "img": "https://i.scdn.co/image/ab67706f00000002db32a17c1f5291b19317b62e",
+    "title": "Mega Hit Mix",
+    "caption": "A mega mix of 75 favorites from the last few years! "
+  },
+  {
+    "id": 8,
+    "img": "https://i.scdn.co/image/ab67706f0000000295df8f35d353232e6670fdf9",
+    "title": "All Out 80s",
+    "caption": "The biggest songs of the 1980s."
+  }
+]
